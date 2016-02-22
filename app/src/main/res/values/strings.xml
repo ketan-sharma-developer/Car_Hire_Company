@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Car Hire Company</string>
+
+    <string name="VehicleType">Type:</string>
+    <string name="VehicleMake">Make:</string>
+    <string name="VehicleModel">Model:</string>
+    <string name="VehicleColour">Colour:</string>
+    <string name="VehicleReg">Reg No:</string>
+    <string name="VehicleNumberOfPassengers">Passengers:</string>
+    <string name="VehicleNumberOfWheels">Wheels:</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="Customer">Customer:</string>
+    <string name="filter_list">Filter List</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_vehicle">Vehicle Details</string>
+
+    <string-array name="vehicle_filter_array" translatable="false">
+        <item>All</item>
+        <item>Available</item>
+        <item>Booked Out</item>
+    </string-array>
+
+    <string-array name="vehicle_type_array" translatable="false">
+        <item>Car</item>
+        <item>Convertible</item>
+        <item>Motorbike</item>
+        <item>Van</item>
+    </string-array>
+</resources>
