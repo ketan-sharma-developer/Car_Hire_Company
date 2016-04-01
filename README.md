@@ -1,7 +1,7 @@
 <snippet>
   <content>
 # Car Hire Company
-This is project was built in Android Studio using Java.  This prototype app lists vehicles and allows the user to add more vehicles to a fleet and book them out for hire.
+This project was built in Android Studio using Java.  This prototype app lists vehicles and allows the user to add more vehicles to a fleet and book them out for hire.
 ## Installation
 Install the application by opening the project in Android Studio and running it on your connected device.
 ## Contributing
