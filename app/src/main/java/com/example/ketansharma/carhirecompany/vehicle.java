@@ -5,7 +5,7 @@ import android.content.Context;
 import java.util.ArrayList;
 
 /**
- * Created by ketan.sharma on 19/02/2016.
+ * Created by ketan.sharma.
  */
 public class vehicle {
     int iVehicleID = 0;

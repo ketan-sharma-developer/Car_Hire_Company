@@ -1,7 +1,7 @@
 package com.example.ketansharma.carhirecompany;
 
 /**
- * Created by ketan.sharma on 21/02/2016.
+ * Created by ketan.sharma.
  */
 
 import android.content.ContentValues;

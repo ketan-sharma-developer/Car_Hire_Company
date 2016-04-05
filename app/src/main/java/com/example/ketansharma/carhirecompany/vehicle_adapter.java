@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /**
- * Created by ketan.sharma on 19/02/2016.
+ * Created by ketan.sharma.
  */
 public class vehicle_adapter extends ArrayAdapter<vehicle> {
     private Activity activity;

@@ -10,7 +10,7 @@ import android.os.Bundle;
 import java.util.ArrayList;
 
 /**
- * Created by ketan.sharma on 21/02/2016.
+ * Created by ketan.sharma.
  */
 public class vehicle_filter_dialog extends DialogFragment {
     String sSQLClause = "";
